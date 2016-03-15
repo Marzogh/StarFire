@@ -1,0 +1,39 @@
+Partlist
+
+Exported from StarFire.brd at 16/03/2016 00:22
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package            Library                    Position (inch)       Orientation
+
+C1       47uF           EIA3528            SparkFun-Capacitors        (0.46961934 0.47400972) MR45
+C2       0.1uF          0603-CAP           SparkFun-Capacitors        (1.2827922 1.28718246) MR225
+LED1                    CHIP-LED0603       adafruit                   (1.38885814 1.39324852) R135
+LED2                    CHIP-LED0603       adafruit                   (0.32819796 0.33258834) R135
+LED3                    CHIP-LED0603       adafruit                   (0.32819796 1.39324852) R45
+LED4                    CHIP-LED0603       adafruit                   (1.38885814 0.33258834) R45
+LED5                    CHIP-LED0603       adafruit                   (0.15142126 0.86291843) R90
+LED6                    CHIP-LED0603       adafruit                   (0.85852805 0.15581164) R180
+LED7                    CHIP-LED0603       adafruit                   (1.56563484 0.86291843) R90
+LED8                    CHIP-LED0603       adafruit                   (0.85852805 1.57002522) R0
+LED9                    CHIP-LED0603       adafruit                   (1.21208145 0.86291843) R180
+LED10                   CHIP-LED0603       adafruit                   (0.50497466 0.86291843) R180
+LED11                   CHIP-LED0603       adafruit                   (0.85852805 1.21647183) R270
+LED12                   CHIP-LED0603       adafruit                   (0.85852805 0.50936503) R270
+R1       220            0402-RES           SparkFun-Passives          (1.21208145 1.21647183) R45
+R2       220            0402-RES           SparkFun-Passives          (1.21208145 0.50936503) R135
+R3       220            0402-RES           SparkFun-Passives          (0.50497466 0.50936503) R225
+R4       220            0402-RES           SparkFun-Passives          (0.36355327 0.86291843) R0
+R5       220            0402-RES           SparkFun-Passives          (0.50497466 1.21647183) R135
+R6       220            0402-RES           SparkFun-Passives          (0.85852805 0.36794365) R270
+R7       220            0402-RES           SparkFun-Passives          (1.35350283 0.86291843) R0
+R8       220            0402-RES           SparkFun-Passives          (0.85852805 1.35789321) R90
+R9       220            0402-RES           SparkFun-Passives          (1.14137082 0.86291843) R90
+R10      220            0402-RES           SparkFun-Passives          (0.57568541 0.86291843) R90
+R11      220            0402-RES           SparkFun-Passives          (0.85852805 1.14576107) R0
+R12      220            0402-RES           SparkFun-Passives          (0.85852805 0.58007566) R0
+U$1                     CR1220-SMD         adafruit                   (0.71710667 1.00433981) MR315
+U$2      AYZ0202        AYZ0202            SparkFun-Electromechanical (1.03530475 0.68614173) MR315
+U2       ATTINY85-20SU  SOIC127P798X216-8N Atmel                      (0.858 0.864)         R0
