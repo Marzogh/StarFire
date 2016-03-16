@@ -1,0 +1,14 @@
+Line No.,Order Code,RoHS Compliant?,Notes,Qty,Manufacturer Part Number,Manufacturer / Description,Availability,Unit Price,Line Price,Discount Price
+1,2217978,YES,,120.0,"KPT-1608QBC-D","LED Colour:Blue; Bulb Size:-; Wavelength Typ:465nm; Forward Voltage:3.3V; Forward Current If:20mA; Luminous Intensity:100mcd; LED Mounting:SMD; Lens Shape:Rectangular; Viewing Angle:120°; Packaging:",7745,0.1030,12.36,,
+2,2072783,YES,,300.0,"MCMR04X221 JTL","Product Range:MCMR Series; Resistance:220ohm; Power Rating:62.5mW; Resistance Tolerance:± 5%; Voltage Rating:50V; Resistor Case Style:0402 [1005 Metric]; Packaging:Cut Tape; Resisto",Out of Stock,0.0090,2.70,,
+3,1455164,YES,,10.0,"ATTINY85-20SU","Controller Family/Series:ATtiny; CPU Speed:20MHz; Program Memory Size:8KB; RAM Memory Size:512Byte; No. of Pins:8; MCU Case Style:SOIC; No. of I/O's:6; Embedded Interface Type:I2C, SPI;",964,2.8000,28.00,,
+4,1650692,YES,,30.0,"3000","Battery Sizes Accepted:Coin Cell - 12mm; Contact Material:Phosphor Bronze; Battery Terminals:SMD; SVHC:No SVHC (15-Jun-2015); Battery Holder Mount:SMD; No. of Batteries:1",18222,1.1200,33.60,,
+5,197154,YES,,50.0,"TAJB226K010RNJ","Product Range:TAJ Series; Capacitance:22µF; Capacitance Tolerance:± 10%; Voltage Rating:10V; Tantalum Capacitor Case:1210 [3528 Metric]; Manufacturer Size Code:B; Operating Temperature Max:1",3029,0.4180,20.90,,
+6,2320019,YES,,12.0,"JS202011SCQN","Product Range:JS Series; Contact Configuration:DPDT; Orientation:Vertical; Switch Mounting:SMD; Contact Current Max:100mA; Contact Voltage AC Max:-; Switch Operation:On-None-On; Contact Vol",6787,0.8900,10.68,,
+7,2310560,YES,,4000.0,"MC0603B104K250CT","Product Range:MC Series; Capacitance:0.1µF; Capacitance Tolerance:± 10%; Dielectric Characteristic:X7R; Voltage Rating:25V; Ceramic Capacitor Case:0603 [1608 Metric]; Operating Tem",1408000,0.0020,8.00,,
+
+,,,,,,,Sub Total,116.24
+,,,,,,,Goods Total,116.24
+,,,,,,,Basic Delivery,0.00
+,,,,,,,GST,Unknown
+,,,,,,,Total,116.24
